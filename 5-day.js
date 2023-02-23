@@ -15,4 +15,4 @@ function validateMobile(number) {
   return regex.test(number);
 }
 
-console.log(`is a valid Indian mobile number: ${validateMobile(number)}`);
+console.log(`is a valid Indian mobile number: ${validateMobile(number)}`);6
