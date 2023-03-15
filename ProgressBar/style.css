@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+:root{
+    --color--: #cacacb;
+    --color_active--: #ef7823;
+    --font_color--: #000000;
+    --default_color--: #fff;
+}
