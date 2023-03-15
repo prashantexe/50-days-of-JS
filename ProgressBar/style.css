@@ -9,3 +9,15 @@
     --font_color--: #000000;
     --default_color--: #fff;
 }
+body, html{
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.container{
+    text-align: center;
+    width: 100%;
+}
+
